@@ -20,5 +20,5 @@ int main() {
   m_print(k_r, y_i_p, y_i_r);
   printf("Spusk\n");
   m_print(k_dec, y_i_p, y_i_sp);
-  system("pause");
+
 }
