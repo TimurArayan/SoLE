@@ -1,0 +1,10 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Постановка задачи}{3}{}%
+\contentsline {section}{\numberline {2}Ход работы}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Метод прогонки}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Метод Зейделя}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Метод верхней релаксации}{7}{}%
+\contentsline {subsection}{\numberline {2.4}Метод наискорейшего спуска}{9}{}%
+\contentsline {section}{\numberline {3}Выводы}{11}{}%
+\contentsline {section}{\numberline {4}Cписок литературы}{12}{}%
+\contentsline {section}{\numberline {5}Листинг программы}{13}{}%
